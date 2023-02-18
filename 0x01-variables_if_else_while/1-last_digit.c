@@ -22,6 +22,6 @@ int main(void)
 		description = "and is greater than 5";
 	else
 		description = "and is less than 6 and not 0";
-	printf("Last digit of %d id %d %s\n", n, last_digit, description);
+	printf("Last digit of %d is %d %s\n", n, last_digit, description);
 	return (0);
 }
