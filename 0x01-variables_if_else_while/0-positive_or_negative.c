@@ -19,7 +19,7 @@ int main(void)
 	else if (n > 0)
 		n_type = " is positive";
 	else
-		n_tyoe = " is negative";
+		n_type = " is negative";
 	printf("%d%s\n", n, n_type);
 	return (0);
 }
