@@ -11,7 +11,7 @@ int main(void)
 	{
 		/**
 		 * if (counter != 0 && (counter % 11 == 0))
-		 * 	countinue;
+		 *	countinue;
 		 */
 		putchar('0' + counter);
 

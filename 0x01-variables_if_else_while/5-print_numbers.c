@@ -15,7 +15,7 @@ int main(void)
 		counter++;
 
 		if (counter == 10)
-			printf("\n";)
+			printf("\n");
 	}
 	return (0);
 }
