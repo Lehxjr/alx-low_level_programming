@@ -16,7 +16,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	last_digit = n % 10;
 
-	if (last_digit ==0)
+	if (last_digit == 0)
 		description = "and is 0";
 	else if (last_digit > 5)
 		description = "and is greater than 5";
