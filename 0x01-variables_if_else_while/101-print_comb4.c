@@ -16,7 +16,7 @@ int main(void)
 			{
 				putchar('0' + j);
 				putchar('0' + k);
-				putchar('0'+ i);
+				putchar('0' + i);
 
 				if (j == 7 && k == 8 && i == 9)
 					continue;
