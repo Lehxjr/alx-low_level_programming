@@ -6,7 +6,6 @@
  *
  * Return: void
  */
-
 void times_table(void)
 {
 	int first_digit;
