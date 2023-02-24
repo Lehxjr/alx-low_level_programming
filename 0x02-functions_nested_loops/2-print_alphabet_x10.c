@@ -15,7 +15,7 @@ void print_alphabet_x10(void)
 	{
 		counter = 0;
 
-		whiles (counter < len)
+		while (counter < len)
 		{
 			_putchar(alphabets[counter]);
 			counter++;
@@ -25,4 +25,3 @@ void print_alphabet_x10(void)
 		times++;
 	}
 }
-
