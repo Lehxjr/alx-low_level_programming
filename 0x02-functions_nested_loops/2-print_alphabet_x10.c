@@ -6,7 +6,7 @@
  */
 void print_alphabet_x10(void)
 {
-	char alphabet[] = "abcdefghijklmnopqrstuvwxyz";
+	char alphabets[] = "abcdefghijklmnopqrstuvwxyz";
 	int len = 26;
 	int counter;
 	int times = 0;
@@ -21,7 +21,7 @@ void print_alphabet_x10(void)
 			counter++;
 		}
 
-		_putchar('\n';)
+		_putchar('\n');
 		times++;
 	}
 }
